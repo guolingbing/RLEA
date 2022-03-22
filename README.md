@@ -1,4 +1,6 @@
-# Deep Reinforcement Learning for Entity Alignment [[pdf]](https://openreview.net/pdf?id=Bi4BpAAqx0)
+# Deep Reinforcement Learning for Entity Alignment
+
+*Accepted for [Findings of ACL 2022](https://openreview.net/pdf?id=Bi4BpAAqx0)*
 
 ## Introduction
 
