@@ -1,4 +1,4 @@
-# Deep Reinforcement Learning for Entity Alignment [pdf](https://openreview.net/pdf?id=Bi4BpAAqx0)
+# Deep Reinforcement Learning for Entity Alignment [[pdf]](https://openreview.net/pdf?id=Bi4BpAAqx0)
 
 ## Introduction
 
