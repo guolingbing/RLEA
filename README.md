@@ -1,4 +1,4 @@
-[**中文**](https://github.com/guolingbing/RLEA/README_CN.md) | [**English**](https://github.com/guolingbing/RLEA)
+[**中文**](https://github.com/guolingbing/RLEA/blob/main/README_CN.md) | [**English**](https://github.com/guolingbing/RLEA)
 
 <!-- >📋  A template README.md for ***code*** accompanying a Project. Please replace the above two linkings into true linking in your project.  -->
 
