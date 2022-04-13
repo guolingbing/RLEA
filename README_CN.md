@@ -1,4 +1,4 @@
-[**中文**](https://github.com/guolingbing/RLEA/README_CN.md) | [**English**](https://github.com/guolingbing/RLEA)
+[**中文**](https://github.com/guolingbing/RLEA/blob/main/README_CN.md) | [**English**](https://github.com/guolingbing/RLEA)
 
 
 <p align="center">
