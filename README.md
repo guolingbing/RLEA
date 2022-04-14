@@ -1,4 +1,3 @@
-# Deep Reinforcement Learning for Entity Alignment
 <p align="center">
     <img src="https://raw.githubusercontent.com/zjunlp/openue/master/docs/images/logo_zju_klab.png" width="400"/>
 </p>
@@ -6,9 +5,15 @@
     <strong>An RL-based Approach for Entity Alignment</strong>
 </p>
 
-This repository is the official implementation of [Deep Reinforcement Learning for Entity Alignment](https://openreview.net/pdf?id=Bi4BpAAqx0), *Findings of ACL 2022*. 
+# Deep Reinforcement Learning for Entity Alignment
 
-<!-- >📋  Optional: include a graphic explaining your approach/main result, bibtex entry, link to demos, blog posts and tutorials -->
+
+This repository is the official implementation of [Deep Reinforcement Learning for Entity Alignment](https://openreview.net/pdf?id=CRBzhRdkycU), *Findings of ACL 2022*. 
+
+<p align="left">
+    <img src="agent.png" width="800"/>
+</p>
+
 
 
 ## Requirements
@@ -73,7 +78,7 @@ If you use or extend our work, please cite the following paper:
             Qiang Zhang and
             Huajun Chen",
     booktitle = "Findings of ACL 2022",
-    url = "https://openreview.net/pdf?id=Bi4BpAAqx0",
+    url = "https://openreview.net/pdf?id=CRBzhRdkycU",
 }
 ```
 
