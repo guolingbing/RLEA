@@ -1,26 +1,15 @@
-[**中文**](https://github.com/guolingbing/RLEA/blob/main/README_CN.md) | [**English**](https://github.com/guolingbing/RLEA)
-
-<!-- >📋  A template README.md for ***code*** accompanying a Project. Please replace the above two linkings into true linking in your project.  -->
-
-
+# Deep Reinforcement Learning for Entity Alignment
 <p align="center">
     <img src="https://raw.githubusercontent.com/zjunlp/openue/master/docs/images/logo_zju_klab.png" width="400"/>
 </p>
-
 <p align="center">
     <strong>An RL-based Approach for Entity Alignment</strong>
 </p>
 
-
-# Deep Reinforcement Learning for Entity Alignment
-
-This repository is the official implementation of [Deep Reinforcement Learning for Entity Alignment](https://openreview.net/pdf?id=Bi4BpAAqx0). 
+This repository is the official implementation of [Deep Reinforcement Learning for Entity Alignment](https://openreview.net/pdf?id=Bi4BpAAqx0), *Findings of ACL 2022*. 
 
 <!-- >📋  Optional: include a graphic explaining your approach/main result, bibtex entry, link to demos, blog posts and tutorials -->
 
-## Contributors
-
-Lingbing Guo, Yuqiang Han, Qiang Zhang, and Huajun Chen.
 
 ## Requirements
 
@@ -72,7 +61,7 @@ Our model achieves the following performance on OpenEA V1 benchmarks:
 </p>
 
 
-## Papers for the Project & How to Cite
+## How to Cite
 
 If you use or extend our work, please cite the following paper:
 
@@ -91,4 +80,4 @@ If you use or extend our work, please cite the following paper:
 
 ## Contributing
 
-This project is licensed under the MIT License. Welcome contributions!
+This project is licensed under the MIT License. Any contribution is welcomed and appreciated.
