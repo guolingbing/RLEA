@@ -1,10 +1,3 @@
-<p align="center">
-    <img src="https://raw.githubusercontent.com/zjunlp/openue/master/docs/images/logo_zju_klab.png" width="400"/>
-</p>
-<p align="center">
-    <strong>An RL-based Approach for Entity Alignment</strong>
-</p>
-
 # Deep Reinforcement Learning for Entity Alignment
 
 
