@@ -19,7 +19,7 @@ conda activate openea
 conda install tensorflow-gpu==1.8
 conda install -c conda-forge graph-tool==2.29
 conda install -c conda-forge python-igraph
-pip install -r requirement.txt
+pip install -e .
 pip install gym
 ```
 
